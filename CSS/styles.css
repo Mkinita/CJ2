@@ -227,9 +227,11 @@
 }
             
 .social{
-    border-left: var(--secondary) 5px solid;
+    border-left: var(--secondary) 5px solid
+        text-align: center;
     padding-left: 50px;
 }
+
 
 .about img {
     width: 80px;
